@@ -63,7 +63,7 @@ public class Customer {
 
     @Override
     public String toString() {
-        return "Customer{" +
+        return "Customer-TEST{" +
                 "name='" + name + '\'' +
                 ", size='" + size + '\'' +
                 ", items=" + Arrays.toString(items) +
